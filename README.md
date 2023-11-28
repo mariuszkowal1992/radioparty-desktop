@@ -1,7 +1,7 @@
 # Radio Party Desktop Application
 ![radioparty](https://github.com/mariuszkowal1992/radioparty-desktop/assets/64725802/2114152f-03ce-49ae-a0a7-3b7f182e5436)
 # Requirements
-Installed Node.js and NPM.
+Installed Node.js with NPM.
 # Creating application for Windows
 To create an application, you need to download and extract the ZIP archive. Then, in the Windows console, navigate to the extracted folder.
 After navigating to the extracted folder in the console, you should run the command <code>npm install</code> to install the dependencies listed in the package.json file.
